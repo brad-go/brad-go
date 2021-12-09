@@ -4,15 +4,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/brad-go?label=Followers&logo=gitHub)
 
 ### Greeting 👋 
-Hi, I’m @brad-go. I'm studying to become a front-end developer.
-
-### Interest 👀 
-
-I’m interested in **web develop** and **design**. Please tell me how to these things well!
+Hi, I’m @brad-go. I'm studying to become a front-end developer. I’m interested in **web develop** and **design**. Please tell me how to these things well!
 
 ### Learning 🌱 
 
-I’m currently learning _**node.js**_ & _**express**_!
+I’m currently studying _**JavaScript**_! and learning about _**node.js**_ & _**express**_ little by little.
 
 ### Tech 💻
 
