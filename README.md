@@ -8,11 +8,11 @@ Hi, I’m @brad-go. I'm studying to become a front-end developer. I’m interest
 
 ### Learning 🌱 
 
-I’m currently studying _**JavaScript**_! and learning about _**React**_ little by little.
+I’m currently studying _**React**_! and learning about _**Next.js**_ little by little.
 
 ### Tech 💻
 
-HTML, CSS, JAVASCRIPT
+HTML, CSS, JAVASCRIPT, React.js, Next.js
 
 ### How to reach me 📫
 
